@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "774612864357",
+    "project_id": "practicaevaluacion-ad07e",
+    "storage_bucket": "practicaevaluacion-ad07e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774612864357:android:3d9cd04d545418e716658c",
+        "android_client_info": {
+          "package_name": "com.example.practicaevaluacion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774612864357-5idhn4iro2hncjsuc72bjfrukf03jigc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.practicaevaluacion",
+            "certificate_hash": "d18c7075143b83f609551caab59b649da4b9c2c1"
+          }
+        },
+        {
+          "client_id": "774612864357-ediig25i3phc938smb66a5vd8hpae3os.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1WgiuSPG6hl3Z63vQMsQyts2MwdpdI8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774612864357-ediig25i3phc938smb66a5vd8hpae3os.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
